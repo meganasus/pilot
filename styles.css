@@ -1,0 +1,8 @@
+html, body {
+  background: black;
+  color: #00FF00;
+}
+
+table, h2, h3, p {
+  color: #00FF00;
+}
