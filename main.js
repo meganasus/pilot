@@ -1,5 +1,5 @@
-const menuH3 = document.querySelector(".menu .hidden h3");
+const menuH2 = document.querySelector(".menu h2");
 menuH3.addEventListener("click", () => {
-  if (menuH3.classList.value.includes("hidden")) menuH3.classList.remove("hidden");
-  else menuH3.classList.add("hidden");
+  if (menuH2.classList.value.includes("hidden")) menuH2.classList.remove("hidden");
+  else menuH2.classList.add("hidden");
 })
