@@ -3,7 +3,7 @@ html, body {
   color: #00FF00;
 }
 
-table {
+table, p.appetizers, p.entrees {
   color: #FF0000
 }
 
