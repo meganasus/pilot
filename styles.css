@@ -6,3 +6,7 @@ html, body {
 table, h2, h3, p {
   color: #00FF00;
 }
+
+.hidden {
+  display: none;
+}
