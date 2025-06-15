@@ -4,7 +4,11 @@ html, body {
 }
 
 table, p.appetizers, p.entrees {
-  color: #FF0000
+  color: #FF0000;
+}
+
+a {
+  color: #FF0000;
 }
 
 .hidden {
