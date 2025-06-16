@@ -8,6 +8,10 @@ h1.business-name, a.business {
   color: #00FF00;
 }
 
+h2.contact {
+  color: white;
+}
+
 ul p {
   color: #00FF00;
 }
