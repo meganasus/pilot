@@ -7,6 +7,10 @@ h1.business-name, a.business {
   color: #00FF00;
 }
 
+p {
+  color: #00FF00;
+}
+
 table, p.appetizers, p.entrees {
   color: #FF0000;
 }
