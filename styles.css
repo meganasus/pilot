@@ -3,7 +3,7 @@ html, body {
   color: #00FF00;
 }
 
-h1.business-name {
+h1.business-name, a.business {
   color: #00FF00;
 }
 
