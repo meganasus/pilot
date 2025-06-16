@@ -23,3 +23,11 @@ a {
 .hidden {
   display: none;
 }
+
+h3.menu {
+  border: 1px solid white;
+}
+
+table {
+  border: 1px solid white;
+}
