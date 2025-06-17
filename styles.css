@@ -2,7 +2,7 @@ html, body {
   background: #110101;
   color: #00FF00;
   font-family: gill sans;
-  background-image: "don-chile-logo.png";
+  background-image: url("/don-chile-logo.png"_;
 }
 
 h1.business-name, a.business {
