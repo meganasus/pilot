@@ -3,7 +3,7 @@ html, body {
   color: #00FF00;
   font-family: gill sans;
   background-image: url("don-chile-logo.png");
-  bacgkround-repat: no-repeat;
+  bacgkround-repeat: no-repeat;
 }
 
 h1.business-name, a.business {
