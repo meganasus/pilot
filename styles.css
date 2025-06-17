@@ -1,5 +1,6 @@
 html {
   background-image: url("/don-chile-logo.png");
+  bacgkround-size: cover;
 }
 
 html, body {
