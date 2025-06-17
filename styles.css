@@ -27,6 +27,7 @@ p {
 
 table, p.appetizers, p.entrees {
   color: #FF0000;
+  width: 20rem;
   border: 1px solid white;
 }
 
