@@ -1,12 +1,9 @@
-html {
-  background-image: url("don-chile-logo.png");
-  bacgkround-size: cover;
-}
-
 html, body {
   background: #110101;
   color: #00FF00;
   font-family: gill sans;
+  background-image: url("don-chile-logo.png");
+  bacgkround-size: cover;
 }
 
 h1.business-name, a.business {
