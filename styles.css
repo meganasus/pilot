@@ -13,8 +13,12 @@ h2.contact {
 }
 
 ul p {
-  color: #00FF00;
+  color: #FF0000;
 }
+
+p {
+  color: white;
+  }
 
 table, p.appetizers, p.entrees {
   color: #FF0000;
