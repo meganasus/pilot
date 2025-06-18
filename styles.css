@@ -4,6 +4,7 @@ html, body {
   font-family: gill sans;
   background-image: url("don-chile-logo.png");
   bacgkround-repeat: no-repeat;
+  background-position: center;
 }
 
 h1.business-name, a.business {
