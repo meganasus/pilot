@@ -7,7 +7,6 @@ body {
   font-family: gill sans;
   bacgkround-repeat: no-repeat;
   background-image: url("don-chile-logo.png");
-  background-position: center;
   background-size: contain;
   background-color: black transparent;
 }
