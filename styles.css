@@ -9,7 +9,7 @@ body {
   background-image: url("don-chile-logo.png");
   background-size: 500px 500px;
   background-color: black;
-  background-position: center;
+  background-position: 50% 50%;
   width: 1500px;
   height: 3200px;
 }
