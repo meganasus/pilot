@@ -13,6 +13,7 @@ img {
   left: 50%;
   bottom: 50%;
   z-index: -5;
+  size: 50px 50px;
   }
 
 h1.business-name, a.business {
