@@ -6,14 +6,14 @@ body {
   color: #00FF00;
   font-family: gill sans;
   background-color: black;
-  width: 1600px;
-  height: 3200px;
+  width: 1500px;
+  height: 2000px;
 }
 
 img {
   position: absolute;
-  inset-block-start: 1600px;
-  inset-inline-start: 800px;
+  inset-block-start: 1000px;
+  inset-inline-start: 750px;
   z-index: -5;
   width: 250px;
   height: 250px;
