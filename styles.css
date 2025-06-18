@@ -7,8 +7,9 @@ body {
   font-family: gill sans;
   bacgkround-repeat: no-repeat;
   background-image: url("don-chile-logo.png");
-  background-size: contain;
+  background-size: 500px 500px;
   background-color: black;
+  background-position: center;
   width: 1500px;
   height: 3200px;
 }
