@@ -9,7 +9,7 @@ body {
   bacgkround-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  background-color: black;
+  background-color: black transparent;
 }
 
 h1.business-name, a.business {
