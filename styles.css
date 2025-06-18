@@ -5,14 +5,16 @@ html {
 body {
   color: #00FF00;
   font-family: gill sans;
-  bacgkround-repeat: no-repeat;
-  background-image: url("don-chile-logo.png");
-  background-size: 500px 500px;
   background-color: black;
-  background-position: 50% 50%;
   width: 1500px;
   height: 3200px;
 }
+
+img {
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  }
 
 h1.business-name, a.business {
   color: #00FF00;
