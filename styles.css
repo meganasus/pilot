@@ -15,8 +15,8 @@ img {
   inset-block-start: 50%;
   inset-inline-start: 50%;
   z-index: -5;
-  width: 500px;
-  height: 500px;
+  width: 250px;
+  height: 250px;
   }
 
 h1.business-name, a.business {
