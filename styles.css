@@ -44,3 +44,16 @@ a {
   display: none;
 }
 
+@media (max-width: 1000px) {
+  body {
+    width: 750px:
+    height: 1600px;
+    }
+}
+
+@media (max-width: 750px) {
+  body {
+    width: 750px:
+    height: 1600px;
+    }
+}
