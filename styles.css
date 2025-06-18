@@ -5,6 +5,7 @@ html, body {
   background-image: url("don-chile-logo.png");
   bacgkround-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 h1.business-name, a.business {
