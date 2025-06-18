@@ -61,24 +61,20 @@ a {
 
 @media (max-width: 750px) {
   body {
-    width: 750px:
-    height: 1500px;
+      
     }
   
   img {
-  inset-block-start: 750px;
-  inset-inline-start: 375px;
+  
   }
 }
 
 @media (max-width 500px) {
   body {
-    width: 500px:
-    height: 1000px;
-    }
+    
+  }
 
   img {
-  inset-block-start: 500px;
-  inset-inline-start: 250px;
+  
   }
 }
