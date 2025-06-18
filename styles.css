@@ -1,11 +1,11 @@
 html, body {
-  background: #110101;
   color: #00FF00;
   font-family: gill sans;
   background-image: url("don-chile-logo.png");
   bacgkround-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  background-color: black;
 }
 
 h1.business-name, a.business {
