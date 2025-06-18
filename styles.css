@@ -8,7 +8,7 @@ body {
   bacgkround-repeat: no-repeat;
   background-image: url("don-chile-logo.png");
   background-size: contain;
-  background-color: black transparent;
+  background-color: black;
   width: 1500px;
   height: 3200px;
 }
