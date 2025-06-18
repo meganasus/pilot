@@ -57,3 +57,10 @@ a {
     height: 1600px;
     }
 }
+
+@media (max-width 500px) {
+  body {
+    width: 500px:
+    height: 1200px;
+    }
+}
