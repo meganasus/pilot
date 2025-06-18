@@ -9,8 +9,8 @@ body {
   background-image: url("don-chile-logo.png");
   background-size: contain;
   background-color: black transparent;
-  width: 1500px
-  height: 3200px
+  width: 1500px;
+  height: 3200px;
 }
 
 h1.business-name, a.business {
