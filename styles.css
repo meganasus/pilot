@@ -12,8 +12,8 @@ body {
 
 img {
   position: absolute;
-  left: 50%;
-  bottom: 50%;
+  inset-block-start: 50%;
+  inset-inline-start: 50%;
   z-index: -5;
   width: 500px;
   height: 500px;
@@ -52,20 +52,20 @@ a {
 @media (max-width: 1000px) {
   body {
     width: 1000px:
-    height: 2400px;
+    height: 2000px;
     }
 }
 
 @media (max-width: 750px) {
   body {
     width: 750px:
-    height: 1600px;
+    height: 1500px;
     }
 }
 
 @media (max-width 500px) {
   body {
     width: 500px:
-    height: 1200px;
+    height: 1000px;
     }
 }
