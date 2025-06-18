@@ -11,9 +11,9 @@ body {
 }
 
 img {
-  position: absolute;
-  inset-block-start: 1000px;
-  inset-inline-start: 750px;
+  position: relative;
+  left: 50%;
+  bottom: 50%;
   z-index: -5;
   width: 250px;
   height: 250px;
