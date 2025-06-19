@@ -7,6 +7,7 @@ body {
   font-family: gill sans;
   background-color: black;
   background-image: "bernard-hermant-unsplash.jpg";
+  background-size: cover;
 }
 
 img {
