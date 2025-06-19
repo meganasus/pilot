@@ -37,8 +37,15 @@ table, p.appetizers, p.entrees {
   color: #FF0000;
 }
 
+p.appetizers {
+    width: 90px;
+  }
+
+p.entrees {
+    width: 75px;
+  }
+  
 p.appetizers, p.entrees {
-    width: 25px;
     border: 1px solid white;
   }
 
