@@ -80,7 +80,7 @@ a {
     }
 
   img.background {
-      
+      height: 2000px;
     }
 
   img.logo {
@@ -93,6 +93,10 @@ a {
 @media (max-width: 750px) {
   body {
       
+    }
+  
+  img.background {
+      height: 1500px;
     }
   
   img.logo {
