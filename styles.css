@@ -20,6 +20,10 @@ h1.business-name, a.business {
   color: white;
 }
 
+h2.menu, a.menu {
+    color: #00FF00;
+  }
+
 h2.contact {
   color: #FF0000;
 }
