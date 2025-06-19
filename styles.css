@@ -3,6 +3,7 @@ html {
 }
 
 img.background {
+  position: absolute;
   width: 100%;
 }
 
