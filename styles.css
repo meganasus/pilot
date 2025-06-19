@@ -4,7 +4,7 @@ html {
 
 img.background {
   position: absolute;
-  z-index: -6;
+  z-index: -5;
   max-width: 100%;
   height: auto;
 }
@@ -17,7 +17,7 @@ body {
 img.logo {
   position: absolute;
   left: 40%;
-  z-index: -5;
+  z-index: -4;
   width: 550px;
   height: 550px;
   }
