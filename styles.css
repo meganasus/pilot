@@ -10,7 +10,7 @@ body {
 
 img {
   position: absolute;
-  left: 42%;
+  left: 40%;
   z-index: -5;
   width: 150px;
   height: 150px;
@@ -62,7 +62,7 @@ a {
     }
 
   img {
-    top: 50%;
+    top: 40%;
   }
 }
 
@@ -72,7 +72,7 @@ a {
     }
   
   img {
-    top: 50%;
+    top: 40%;
   }
 }
 
