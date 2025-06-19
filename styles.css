@@ -1,6 +1,7 @@
 html {
   background-image: url("patrick-tomasso-unsplash.jpg");
   background-size: cover;
+  background-blend-mode: lighten;
 }
 
 body {
