@@ -24,6 +24,10 @@ h1.business-name, h2.menu, h2.contact, p {
   relative;
 }
 
+h1.business-name {
+    background-color: black;
+  }
+
 h1.business-name, a.business {
   color: white;
 }
