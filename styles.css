@@ -63,7 +63,7 @@ p.entrees {
   }
   
 p.appetizers, p.entrees {
-    
+    border: 1px solid white;
   }
 
 a {
