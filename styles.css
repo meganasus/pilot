@@ -1,7 +1,9 @@
 html {
-  background-image: url("patrick-tomasso-unsplash.jpg");
-  background-size: cover;
-  background-blend-mode: lighten;
+  
+}
+
+img.background {
+  width: 100%;
 }
 
 body {
@@ -9,7 +11,7 @@ body {
   font-family: gill sans;
 }
 
-img {
+img.logo {
   position: absolute;
   left: 40%;
   z-index: -5;
@@ -66,7 +68,7 @@ a {
       
     }
 
-  img {
+  img.logo {
     width: 200px;
     height: 200px;
     top: 30%;
@@ -78,7 +80,7 @@ a {
       
     }
   
-  img {
+  img.logo {
     
   }
 }
@@ -88,7 +90,7 @@ a {
     
   }
 
-  img {
+  img.logo {
     
   }
 }
