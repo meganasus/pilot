@@ -11,10 +11,10 @@ body {
 img {
   position: absolute;
   left: 50%;
-  top: 50%;
   z-index: -5;
   width: 150px;
   height: 150px;
+  border: 1px solid white;
   }
 
 h1.business-name, a.business {
