@@ -4,7 +4,7 @@ html {
 
 img.background {
   position: absolute;
-  object-fit: cover;
+  height: auto;
 }
 
 body {
@@ -21,7 +21,7 @@ img.logo {
   }
 
 h1.business-name, h2.menu, h2.contact, p {
-  position: absolute;
+  
 }
 
 h1.business-name, a.business {
