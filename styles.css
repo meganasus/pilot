@@ -14,7 +14,7 @@ img {
   z-index: -5;
   width: 150px;
   height: 150px;
-  border: 1px solid white;
+  border: 1px solid 
   }
 
 h1.business-name, a.business {
@@ -63,7 +63,7 @@ a {
     }
 
   img {
-    top: 250px;
+    top: 50%;
   }
 }
 
@@ -73,7 +73,7 @@ a {
     }
   
   img {
-    top: 150px;
+    top: 50%;
   }
 }
 
