@@ -31,6 +31,10 @@ h2.contact {
   color: #FF0000;
 }
 
+h2.menu p {
+  diplay: block;
+}
+
 ul p {
   color: #FF0000;
 }
