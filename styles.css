@@ -1,5 +1,5 @@
 html {
-  background-image: "bernard-hermant-unsplash.jpg";
+  background-image: url("bernard-hermant-unsplash.jpg");
   background-size: cover;
 }
 
