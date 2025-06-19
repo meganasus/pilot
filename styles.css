@@ -4,6 +4,8 @@ html {
 
 img.background {
   position: absolute;
+  z-index: -6;
+  max-width: 100%;
   height: auto;
 }
 
@@ -78,7 +80,7 @@ a {
     }
 
   img.background {
-      width: 1250px;
+      
     }
 
   img.logo {
