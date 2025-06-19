@@ -14,8 +14,8 @@ img {
   position: absolute;
   left: 40%;
   z-index: -5;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   }
 
 h1.business-name, a.business {
@@ -68,6 +68,8 @@ a {
     }
 
   img {
+    width: 150px;
+    height: 150px;
     top: 38%;
   }
 }
@@ -78,7 +80,7 @@ a {
     }
   
   img {
-    top: 38%;
+    
   }
 }
 
@@ -88,6 +90,6 @@ a {
   }
 
   img {
-    top: 38%;
+    
   }
 }
