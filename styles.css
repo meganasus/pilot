@@ -1,13 +1,12 @@
 html {
-  
+  background-image: "bernard-hermant-unsplash.jpg";
+  background-size: cover;
 }
 
 body {
   color: #00FF00;
   font-family: gill sans;
   background-color: black;
-  background-image: "bernard-hermant-unsplash.jpg";
-  background-size: cover;
 }
 
 img {
