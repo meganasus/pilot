@@ -4,7 +4,7 @@ html {
 
 img.background {
   position: absolute;
-  width: 100%;
+  object-fit: cover;
 }
 
 body {
