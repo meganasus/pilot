@@ -57,6 +57,7 @@ p {
 
 table {
   border: 1px solid white;
+  background-image: linear-gradient(black, grey);
 }
 
 table, p.appetizers, p.entrees {
