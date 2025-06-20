@@ -56,7 +56,6 @@ p {
   }
 
 table {
-  border: 1px solid white;
   background-image: linear-gradient(to right, black, grey);
   opacity: 0.75;
 }
