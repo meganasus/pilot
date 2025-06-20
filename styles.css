@@ -107,7 +107,8 @@ a {
     }
 
   img.background {
-    
+    height: 800px;
+    width: auto;
     }
 
   img.logo {
