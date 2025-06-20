@@ -4,7 +4,7 @@ html {
 
 img.background {
   display: inline-block;
-  position: relative;
+  position: absolute;
   z-index: -5;
   opacity: 0.8;
   margin: 0;
