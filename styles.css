@@ -75,6 +75,7 @@ table {
 
 table td {
   opacity: 1;
+  color: white;
   }
 
 table, p.appetizers, p.entrees {
