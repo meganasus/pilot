@@ -62,7 +62,7 @@ p {
   }
 
 table {
-  background-image: linear-gradient(to right, black, grey);
+  background-image: linear-gradient(to right, #FF5555, black);
   opacity: 0.9;
 }
 
