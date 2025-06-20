@@ -77,7 +77,7 @@ table {
   opacity: 0.9;
 }
 
-table td, table li {
+table td, table p {
   opacity: 1;
   color: white;
   }
