@@ -14,6 +14,10 @@ body {
   font-family: gill sans;
 }
 
+main {
+  position: relative;
+  }
+
 img.logo {
   position: absolute;
   left: 40%;
