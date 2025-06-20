@@ -6,7 +6,7 @@ img.background {
   display: inline-block;
   position: absolute;
   z-index: -5;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 body {
@@ -88,8 +88,7 @@ a {
     }
 
   img.background {
-      object-fit: cover;
-      width: 100%;
+      width: 110%;
     }
 
   img.logo {
