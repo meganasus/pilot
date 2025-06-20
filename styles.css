@@ -21,8 +21,9 @@ main {
   }
 
 img.logo {
-  position: absolute;
+  position: sticky;
   left: 40%;
+  top: 40%;
   z-index: -4;
   width: 550px;
   height: 550px;
