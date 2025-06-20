@@ -49,6 +49,10 @@ section.contact {
   color: #FF0000;
   background-image: linear-gradient(black, #FF8855);
   opacity: 0.9
+  }
+  
+section.contact h2, section.contact p {
+  opacity: 1;
 }
 
 h2.menu p {
