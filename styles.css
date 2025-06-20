@@ -119,6 +119,10 @@ a {
     
   }
 
+  img.background {
+      width: 600px;
+    }
+
   img.logo {
     
   }
