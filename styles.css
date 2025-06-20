@@ -60,6 +60,10 @@ table {
   opacity: 0.75;
 }
 
+td {
+  opacity: 1;
+  }
+
 table, p.appetizers, p.entrees {
   color: #FF0000;
 }
