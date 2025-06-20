@@ -3,6 +3,7 @@ html {
 }
 
 img.background {
+  display: inline-block;
   position: absolute;
   z-index: -5;
 }
