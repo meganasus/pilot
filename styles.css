@@ -27,6 +27,7 @@ h1.business-name, h2.menu, h2.contact, p {
 }
 
 h1.business-name {
+    display: inline-block
     background-color: black;
   }
 
