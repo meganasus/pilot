@@ -29,7 +29,7 @@ img.logo {
   }
 
 h1.business-name, h2.menu, h2.contact, p {
-  position: relative;
+  position: absolute;
 }
 
 h1.business-name {
