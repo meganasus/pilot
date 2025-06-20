@@ -47,6 +47,7 @@ h2.menu p, a.menu {
 
 h2.contact {
   color: #FF0000;
+  background-image: linear-gradient(#FF5555, black);
 }
 
 h2.menu p {
@@ -66,7 +67,7 @@ table {
   opacity: 0.9;
 }
 
-td {
+table td {
   opacity: 1;
   }
 
