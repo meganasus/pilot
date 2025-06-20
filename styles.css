@@ -52,6 +52,10 @@ p {
   color: #FF0000;
   }
 
+table {
+  border: 1px solid white;
+}
+
 table, p.appetizers, p.entrees {
   color: #FF0000;
 }
@@ -65,7 +69,7 @@ p.entrees {
   }
   
 p.appetizers, p.entrees {
-    border: 1px solid white;
+    
   }
 
 a {
