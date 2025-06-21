@@ -125,7 +125,11 @@ a {
 
 .hidden {
   display: none;
-}
+  }
+  
+img.hidden {
+  display: inline-block;
+  }
 
 @media (max-width: 2400px) {
   img.background {
