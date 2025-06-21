@@ -38,8 +38,8 @@ main {
 
 img.logo {
   position: sticky;
-  left: 20%;
-  top: 20%;
+  left: 10%;
+  top: 10%;
   z-index: -4;
   width: 550px;
   height: 550px;
