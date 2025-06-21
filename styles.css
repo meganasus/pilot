@@ -23,7 +23,8 @@ img.background-mobil {
     z-index: -5;
     opacity: 0.85;
     margin: 0;
-    filter: blur(2px)
+    filter: blur(1px);
+    aspect-ratio: 2 / 1;
   }
 
 body {
