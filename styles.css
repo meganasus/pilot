@@ -50,6 +50,10 @@ h1.business-name, a.business {
   color: white;
 }
 
+h2.menu {
+  position: absolute;
+}
+
 h2.menu p, a.menu {
     color: #00FF00;
   }
