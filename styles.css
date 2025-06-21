@@ -27,7 +27,7 @@ img.background-mobile {
 body {
   color: #00FF00;
   font-family: gill sans;
-  body: relative;
+  position: relative;
 }
 
 main {
