@@ -50,6 +50,7 @@ h1.business-name, a.business {
 
 h2.menu {
   position: absolute;
+  left: 80%
 }
 
 h2.menu p, a.menu {
