@@ -15,7 +15,7 @@ img.background {
   filter: blur(2px)
   }
 
-img.background-mobile {
+img.background-mobil {
     display: inline-block;
     position: absolute;
     z-index: -5;
