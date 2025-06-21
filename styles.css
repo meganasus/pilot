@@ -134,7 +134,7 @@ img.hidden {
   }
 
 @media (max-width: 2400px) {
-  img.background {
+  img.background-mobil {
     max-width: 2000px;
     height: auto; 
   }
@@ -145,9 +145,9 @@ img.hidden {
       
     }
 
-  img.background {
-    height: 800px;
-    width: auto;
+  img.background-mobil {
+    max-width: 480px;
+    height: auto;
     }
 
   img.logo {
@@ -161,7 +161,7 @@ img.hidden {
       
     }
   
-  img.background {
+  img.background-mobil {
     
     }
   
@@ -175,7 +175,7 @@ img.hidden {
     
   }
 
-  img.background {
+  img.background-mobil {
     
     }
 
