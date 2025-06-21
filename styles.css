@@ -12,6 +12,8 @@ img.background {
   z-index: -5;
   opacity: 0.85;
   margin: 0;
+  top: 40%;
+  left: 40%;
 }
 
 body {
