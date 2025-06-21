@@ -13,6 +13,7 @@ img.background {
   opacity: 0.85;
   margin: 0;
   filter: blur(2px)
+  max-width: 2400px;
   }
 
 img.background-mobil {
