@@ -27,8 +27,8 @@ main {
 
 img.logo {
   position: sticky;
-  left: 40%;
-  top: 40%;
+  left: 20%;
+  top: 20%;
   z-index: -4;
   width: 550px;
   height: 550px;
