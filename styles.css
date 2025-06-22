@@ -39,7 +39,7 @@ main {
 
 img.logo {
   position: sticky;
-  left: 10%;
+  left: 160px;
   top: 10%;
   z-index: -4;
   width: 550px;
