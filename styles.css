@@ -7,7 +7,7 @@ section.background {
 }
 
 img.background {
-  display: none;
+  display: inline-block;
   position: absolute;
   z-index: -5;
   opacity: 0.85;
