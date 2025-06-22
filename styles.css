@@ -38,6 +38,10 @@ main {
   position: absolute;
   }
 
+section.image {
+  position: absolute;
+  }
+
 img.logo {
   position: sticky;
   left: 160px;
