@@ -36,6 +36,8 @@ body {
 
 main {
   position: absolute;
+  display: flex;
+  flex-direction: flex-flow;
   }
 
 section.image {
