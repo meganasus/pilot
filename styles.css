@@ -40,7 +40,6 @@ main {
 img.logo {
   position: sticky;
   left: 160px;
-  top: 10%;
   z-index: -4;
   width: 550px;
   height: 550px;
