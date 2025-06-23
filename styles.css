@@ -4,6 +4,7 @@ html {
 
 section.background {
   position: fixed;
+  z-index: -5;
 }
 
 img.background {
