@@ -56,9 +56,8 @@ h1.business-name, h2.menu, h2.contact, p {
 }
 
 h1.business-name {
-    display: inline-block
+    color: orange;
     background-color: black;
-    margin: 0;
   }
 
 h1.business-name, a.business {
