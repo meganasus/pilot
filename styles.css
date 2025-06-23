@@ -2,8 +2,13 @@ html {
   
 }
 
+body {
+  color: #00FF00;
+  font-family: gill sans;
+  position: relative;
+}
+
 section.background {
-  position: static;
   overflow: hidden;
   z-index: -5;
 }
@@ -23,19 +28,11 @@ img.background-mobil {
     /* filter: blur(1px); */
   }
 
-body {
-  color: #00FF00;
-  font-family: gill sans;
-  position: relative;
+main {
+  position: absolute;
 }
 
-main {
-  position: relative;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  row-gap: 10px;
-  }
+
 
 section.logo {
   position: absolute;
