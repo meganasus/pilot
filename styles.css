@@ -75,16 +75,16 @@ section.menu-contact {
   width: 125px;
   }
   
-section.contact h2, section.contact p {
-  color: white;
+section.menu-contact h2, section.menu-contact p {
+  
 }
 
-section.contact p {
+section.menu-contact p {
   
 }
 
 h2.menu p {
-  diplay: block;
+  
 }
 
 ul p {
@@ -127,10 +127,6 @@ a {
 
 .hidden {
   display: none;
-  }
-  
-img.hidden {
-  
   }
 
 @media (max-width: 2400px) {
