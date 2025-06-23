@@ -35,7 +35,6 @@ body {
 }
 
 main {
-  position: absolute;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
