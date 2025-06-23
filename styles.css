@@ -72,7 +72,7 @@ h2.menu p, a.menu {
     color: whitesmoke;
   }
 
-section.menu-contact {
+article.contact {
   color: white;
   background-image: linear-gradient(#D18855, black);
   opacity: 0.87;
