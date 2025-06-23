@@ -37,7 +37,7 @@ body {
 main {
   position: absolute;
   display: flex;
-  flex-direction: flex-flow;
+  flex-direction: row;
   }
 
 section.image {
