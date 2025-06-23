@@ -37,7 +37,7 @@ main {
 
 section.logo {
   position: absolute;
-  left: 33%;
+  left: 50%;
   }
 
 img.logo {
@@ -144,13 +144,14 @@ img.hidden {
     }
 
   img.background-mobil {
-/*     max-width: 800px;
-    height: auto; */
-    transform: scale(.85);
-    }
+    
+  }
 
+  section.logo {
+    left: 33%;
+  }
+  
   img.logo {
-    left: 150px;
     width: 200px;
     height: 200px;
   }
