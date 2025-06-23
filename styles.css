@@ -3,7 +3,7 @@ html {
 }
 
 section.background {
-  position: fixed;
+  position: absolute;
   overflow: clip;
   z-index: -5;
 }
