@@ -43,12 +43,11 @@ main {
 
 section.image {
   position: absolute;
-  left: 50%;
+  left: 25%;
   }
 
 img.logo {
   position: sticky;
-  left: 160px;
   z-index: -4;
   width: 550px;
   height: 550px;
