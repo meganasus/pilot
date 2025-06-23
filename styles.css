@@ -9,7 +9,7 @@ body {
 }
 
 section.background {
-  position: static;
+  position: absolute;
   overflow: hidden;
   z-index: -5;
 }
