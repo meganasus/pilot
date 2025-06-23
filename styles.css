@@ -42,6 +42,7 @@ main {
   }
 
 section.image {
+  position: absolute;
   }
 
 img.logo {
