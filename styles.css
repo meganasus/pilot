@@ -42,6 +42,11 @@ section.tables {
   position: absolute;
 }
 
+section.logo-on-menu {
+  position: absolute;
+  left: 33%
+  }
+
 article.logo {
   position: absolute;
   left: 50%;
