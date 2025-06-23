@@ -3,7 +3,7 @@ html {
 }
 
 section.background {
-  position: absolute;
+  position: relative;
 }
 
 img.background {
