@@ -3,7 +3,6 @@ html {
 }
 
 section.background {
-  position: absolute;
   overflow: clip;
   z-index: -5;
 }
