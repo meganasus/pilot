@@ -3,6 +3,7 @@ html {
 }
 
 section.background {
+  position: static;
   overflow: hidden;
   z-index: -5;
 }
@@ -29,6 +30,7 @@ body {
 }
 
 main {
+  position: absolute;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -52,6 +54,7 @@ h1.business-name, h2.menu, h2.contact, p {
 }
 
 h1.business-name {
+    position: absolute;
     color: orange;
     background-color: black;
   }
