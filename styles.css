@@ -154,6 +154,7 @@ img.hidden {
   img.background-mobil {
 /*     max-width: 800px;
     height: auto; */
+    transform: scale(.85);
     }
 
   img.logo {
