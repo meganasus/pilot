@@ -7,7 +7,7 @@ section.background {
   overflow: clip;
   z-index: -5;
 }
-
+/* 
 img.background {
   display: inline-block;
   position: absolute;
@@ -16,14 +16,11 @@ img.background {
   filter: blur(2px)
   max-width: 2400px;
   height: auto;
-  }
+  } */
 
 img.background-mobil {
-    display: inline-block;
-    position: absolute;
     z-index: -5;
     opacity: 0.85;
-    margin: 0;
     filter: blur(1px);
     transform: scale(0.85);
     aspect-ratio: 9/16;
@@ -144,7 +141,7 @@ img.hidden {
 
 @media (max-width: 2400px) {
   img.background-mobil {
-    max-width: 2000px;
+    width: auto;
     height: auto; 
   }
 }
@@ -155,8 +152,8 @@ img.hidden {
     }
 
   img.background-mobil {
-    max-width: 800px;
-    height: auto;
+/*     max-width: 800px;
+    height: auto; */
     }
 
   img.logo {
