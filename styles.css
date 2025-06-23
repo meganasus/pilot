@@ -43,6 +43,7 @@ main {
 
 section.image {
   position: absolute;
+  left: 50%;
   }
 
 img.logo {
