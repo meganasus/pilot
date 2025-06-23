@@ -19,10 +19,8 @@ img.background {
   } */
 
 img.background-mobil {
-    z-index: -5;
     opacity: 0.85;
     /* filter: blur(1px); */
-    aspect-ratio: 9/16;
   }
 
 body {
@@ -40,7 +38,6 @@ main {
 
 section.image {
   position: absolute;
-  left: 32%;
   }
 
 img.logo {
