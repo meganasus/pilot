@@ -33,7 +33,9 @@ main {
   position: absolute;
 }
 
-
+section.menu-contact {
+  left: 8%
+}
 
 section.logo {
   position: absolute;
