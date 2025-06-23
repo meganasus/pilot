@@ -30,7 +30,7 @@ body {
 }
 
 main {
-  position: absolute;
+  position: relative;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -54,7 +54,7 @@ h1.business-name, h2.menu, h2.contact, p {
 }
 
 h1.business-name {
-    position: absolute;
+    position: relative;
     color: orange;
     background-color: black;
   }
@@ -63,16 +63,12 @@ h1.business-name, a.business {
   color: white;
 }
 
-h2.menu {
-  position: absolute;
-  left: 80%
-}
-
 h2.menu p, a.menu {
     color: whitesmoke;
   }
 
 section.contact {
+  position: relative;
   color: white;
   background-image: linear-gradient(#D18855, black);
   opacity: 0.87;
