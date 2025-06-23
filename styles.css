@@ -31,6 +31,8 @@ img.background-mobil {
 
 main {
   position: absolute;
+  display: flex;
+  justify-content: flex-start;
 }
 
 section.menu-contact {
