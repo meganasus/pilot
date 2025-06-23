@@ -66,7 +66,6 @@ h2.menu p, a.menu {
   }
 
 section.contact {
-  position: relative;
   color: white;
   background-image: linear-gradient(#D18855, black);
   opacity: 0.87;
