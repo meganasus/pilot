@@ -38,6 +38,10 @@ section.menu-contact {
   left: 8%
 }
 
+section.tables {
+  position: absolute;
+}
+
 article.logo {
   position: absolute;
   left: 50%;
