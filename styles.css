@@ -4,6 +4,7 @@ html {
 
 section.background {
   position: fixed;
+  overflow: hidden;
   z-index: -5;
 }
 
