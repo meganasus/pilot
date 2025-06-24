@@ -4,6 +4,7 @@ html {
 
 body {
   color: #00FF00;
+  background: radial-gradient(black, #FFFAFA);
   font-family: gill sans;
   overflow: hidden;
 }
