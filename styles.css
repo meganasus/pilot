@@ -11,16 +11,6 @@ section.background {
   position: absolute;
   z-index: -5;
 }
-/* 
-img.background {
-  display: inline-block;
-  position: absolute;
-  opacity: 0.85;
-  margin: 0;
-  filter: blur(2px)
-  max-width: 2400px;
-  height: auto;
-  } */
 
 img.background-mobil {
     opacity: 0.95;
