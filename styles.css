@@ -28,7 +28,7 @@ img.background-mobil {
     /* filter: blur(1px); */
   }
 
-main {
+main.menu-contact {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
