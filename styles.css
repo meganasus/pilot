@@ -29,6 +29,7 @@ img.background-mobil {
   }
 
 main.menu-contact {
+  text-align: center;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
