@@ -1,10 +1,11 @@
 html {
-  overflow: hidden;
+  
 }
 
 body {
   color: #00FF00;
   font-family: gill sans;
+  overflow: hidden;
 }
 
 section.background {
