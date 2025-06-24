@@ -32,7 +32,6 @@ main {
   flex-direction: row;
   justify-content: flex-start;
   row-gap: 10px;
-  left: 10%;
   }
 
 section.tables {
