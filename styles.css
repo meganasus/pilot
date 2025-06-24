@@ -1,5 +1,5 @@
 html {
-  
+  overflow: clip;
 }
 
 body {
@@ -9,7 +9,6 @@ body {
 
 section.background {
   position: absolute;
-  overflow: clip;
   z-index: -5;
 }
 /* 
