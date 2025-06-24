@@ -55,6 +55,7 @@ img.logo {
   position: sticky;
   width: 550px;
   height: 550px;
+  z-index: -1;
   }
 
 h1.business-name, h2.menu, h2.contact, p {
