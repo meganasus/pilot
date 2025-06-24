@@ -79,11 +79,10 @@ article.contact {
   color: white;
   background-image: linear-gradient(#D18855, black);
   opacity: 0.87;
-  width: 125px;
   }
 
 article.menu h2.menu {
-  left: 80%;
+  
 }
 
 h2.menu p {
