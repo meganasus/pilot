@@ -47,8 +47,6 @@ section.logo-on-menu {
   }
 
 article.logo {
-  position: absolute;
-  left: 33%;
   z-index: -1;
   }
 
