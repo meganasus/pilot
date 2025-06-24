@@ -32,8 +32,8 @@ main.menu-contact {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  row-gap: 10px;
-  }
+  row-gap: 15px;
+}
 
 section.tables {
   position: absolute;
