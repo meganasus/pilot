@@ -70,14 +70,16 @@ a.business {
   color: white;
 }
 
-h2.menu p, a.menu {
-    color: whitesmoke;
-  }
+a.menu {
+  color: whitesmoke;
+}
 
 article.contact {
   color: white;
   background-image: linear-gradient(#D18855, black);
   opacity: 0.87;
+  width: 850px;
+  height: 425px;
   }
 
 article.menu h2.menu {
@@ -89,12 +91,12 @@ h2.menu p {
 }
 
 ul p {
-  color: #FF0000;
+  
 }
 
 p {
   color: white;
-  }
+}
 
 table {
   background-image: linear-gradient(to right, #D18855, black);
