@@ -63,7 +63,6 @@ h1.business-name, h2.menu, h2.contact, p {
 h1.business-name {
   position: relative;
   color: orange;
-  background-color: black;
 }
 
 h1.business-name, a.business {
