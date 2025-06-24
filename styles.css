@@ -41,17 +41,18 @@ section.tables {
 
 section.logo-on-menu {
   position: absolute;
-  left: 33%
+  left: 33%;
+  z-index: -1;
   }
 
 article.logo {
   position: absolute;
   left: 33%;
+  z-index: -1;
   }
 
 img.logo {
   position: sticky;
-  z-index: -4;
   width: 550px;
   height: 550px;
   }
