@@ -32,11 +32,8 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-}
-
-section.menu-contact {
-  left: 8%
-}
+  left: 10%;
+  }
 
 section.tables {
   position: absolute;
