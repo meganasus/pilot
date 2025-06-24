@@ -67,7 +67,7 @@ h1.business-name {
   color: orange;
 }
 
-h1.business-name, a.business {
+a.business {
   color: white;
 }
 
