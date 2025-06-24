@@ -29,10 +29,10 @@ img.background-mobil {
   }
 
 main.menu-contact {
-  text-align: center;
+/*   text-align: center; */
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   row-gap: 10px;
 }
 
