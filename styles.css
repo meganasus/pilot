@@ -80,7 +80,11 @@ article.contact {
   opacity: 0.87;
   width: 125px;
   }
-  
+
+aside.menu {
+  left: 80%;
+}
+
 section.menu-contact h2, section.menu-contact p {
   
 }
