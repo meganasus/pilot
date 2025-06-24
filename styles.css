@@ -33,7 +33,7 @@ main.menu-contact {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-  row-gap: 12rem;
+  row-gap: 10px;
 }
 
 section.tables {
