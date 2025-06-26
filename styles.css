@@ -1,6 +1,4 @@
-html {
-  
-}
+html {}
 
 body {
   background: radial-gradient(black, #000009);
@@ -13,9 +11,9 @@ section.background {
 }
 
 img.background-mobil {
-    opacity: 0.95;
-    /* filter: blur(1px); */
-  }
+  opacity: 0.95;
+  /* filter: blur(1px); */
+}
 
 main.menu-contact {
   display: flex;
@@ -36,18 +34,18 @@ section.logo-on-menu {
   position: absolute;
   left: 33%;
   z-index: -1;
-  }
+}
 
 article.logo {
   z-index: -1;
-  }
+}
 
 img.logo {
   position: sticky;
   width: 550px;
   height: 550px;
   z-index: -1;
-  }
+}
 
 h1.business-name {
   position: relative;
@@ -73,19 +71,13 @@ article.contact {
   opacity: 0.87;
   width: 400px;
   height: 400px;
-  }
-
-article.menu h2.menu {
-  
 }
 
-h2.menu p {
-  
-}
+article.menu h2.menu {}
 
-ul p {
-  
-}
+h2.menu p {}
+
+ul p {}
 
 p {
   color: white;
@@ -99,23 +91,23 @@ table {
 table td, table p {
   opacity: 1;
   color: white;
-  }
+}
 
 table, p.appetizers, p.entrees {
   color: white;
 }
 
 p.appetizers {
-    width: 110px;
-  }
+  width: 110px;
+}
 
 p.entrees {
-    width: 75px;
-  }
-  
+  width: 75px;
+}
+
 p.appetizers, p.entrees {
-    color: #AA0000;
-  }
+  color: #AA0000;
+}
 
 a {
   color: #FF0000;
@@ -123,28 +115,22 @@ a {
 
 .hidden {
   display: none;
-  }
+}
 
 @media (max-width: 2400px) {
   img.background-mobil {
     width: auto;
-    height: auto; 
+    height: auto;
   }
 }
-  
+
 @media (max-width: 1000px) {
-  body {
-      
-    }
+  body {}
 
-  img.background-mobil {
-    
-  }
+  img.background-mobil {}
 
-  article.logo {
-    
-  }
-  
+  article.logo {}
+
   img.logo {
     width: 200px;
     height: 200px;
@@ -153,32 +139,25 @@ a {
   main {
     width: min-content;
   }
+  
+  article.contact {
+    width: auto;
+    height: auto;
+  }
 }
 
 @media (max-width: 750px) {
-  body {
-      
-    }
-  
-  img.background-mobil {
-    
-    }
-  
-  img.logo {
-    
-  }
+  body {}
+
+  img.background-mobil {}
+
+  img.logo {}
 }
 
 @media (max-width 500px) {
-  body {
-    
-  }
+  body {}
 
-  img.background-mobil {
-    
-    }
+  img.background-mobil {}
 
-  img.logo {
-    
-  }
+  img.logo {}
 }
