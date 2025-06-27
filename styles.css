@@ -23,12 +23,12 @@ section.menu-contact {
 
 section.menu-contact.large {
   display: flex;
-  /* justify-content: center; */
-  /* row-gap: 10px; */
 }
 
-section.tables {
-  position: absolute;
+div.tables {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 section.logo-on-menu {
