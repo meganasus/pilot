@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return <div>Basic Pursuit React Starter</div>;
+  return <div>Don Chile Mexican Restaurant</div>;
 };
 
 export default App;
