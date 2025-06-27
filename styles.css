@@ -141,7 +141,7 @@ a {
   }
   
   article.contact {
-    width: auto;
+    width: 100px;
     height: auto;
   }
 }
