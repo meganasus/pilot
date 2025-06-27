@@ -17,6 +17,7 @@ img.background-mobil {
 
 section.menu-contact {
   display: flex;
+  flex-direction: row;
   justify-content: center;
   row-gap: 10px;
 }
@@ -24,7 +25,7 @@ section.menu-contact {
 section.menu-contact.large {
   display: flex;
   justify-content: center;
-  row-gap: 10px;
+  row-gap: 5px;
 }
 
 section.tables {
