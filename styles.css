@@ -18,7 +18,7 @@ img.background-mobil {
 section.menu-contact {
   display: flex;
   flex-direction: row;
-  justify-content:;
+  justify-content: center;
 }
 
 section.menu-contact.large {
