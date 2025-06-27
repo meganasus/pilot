@@ -18,14 +18,13 @@ img.background-mobil {
 section.menu-contact {
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  row-gap: 10px;
+  justify-content:;
 }
 
 section.menu-contact.large {
   display: flex;
-  justify-content: center;
-  row-gap: 5px;
+  /* justify-content: center; */
+  /* row-gap: 10px; */
 }
 
 section.tables {
