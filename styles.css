@@ -3,7 +3,6 @@ html {}
 body {
   background: radial-gradient(black, #000009);
   font-family: gill sans;
-  font-size: 32px;
 }
 
 section.background {
@@ -58,6 +57,7 @@ h1.business-name {
   position: relative;
   text-align: center;
   color: white;
+  font-size: 32px;
 }
 
 h1.business-name a.business {
