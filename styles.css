@@ -34,23 +34,23 @@ div.tables {
   width: 500px;
   opacity: 0.90;
   background: linear-gradient(#D1AA55, #D18855);
+  z-index: -2;
 }
 
 section.logo-on-menu {
   position: absolute;
   left: 33%;
-  z-index: -1;
+  z-index: -3;
 }
 
 article.logo {
-  z-index: -1;
+  z-index: -3;
 }
 
 img.logo {
   position: sticky;
   width: 550px;
   height: 550px;
-  z-index: -1;
 }
 
 h1.business-name {
@@ -77,7 +77,7 @@ article.contact {
   text-align: center;
   align-contents: center;
   background-image: linear-gradient(#D18855, black);
-  opacity: 0.87;
+  opacity: 0.90;
   width: 300px;
   height: 200px;
 }
