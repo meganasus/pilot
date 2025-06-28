@@ -82,6 +82,10 @@ article.contact {
   height: 200px;
 }
 
+article.contact p {
+  font-size: 24px;
+}
+
 article.menu h2.menu {}
 
 h2.menu p {}
