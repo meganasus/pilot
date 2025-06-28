@@ -31,6 +31,7 @@ div.tables {
   flex-direction: column;
   justify-content: center;
   left: 42%;
+  background-color: #D1AA55;
 }
 
 section.logo-on-menu {
