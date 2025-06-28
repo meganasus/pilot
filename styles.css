@@ -30,7 +30,7 @@ div.tables {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  left: 42%
+  left: 42%;
 }
 
 section.logo-on-menu {
