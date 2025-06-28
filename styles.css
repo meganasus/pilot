@@ -26,6 +26,7 @@ section.menu-contact.large {
 }
 
 div.tables {
+  position: absolute;
   display: flex;
   flex-direction: column;
   justify-content: center;
