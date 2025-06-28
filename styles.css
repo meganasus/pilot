@@ -31,7 +31,9 @@ div.tables {
   flex-direction: column;
   justify-content: center;
   left: 42%;
-  background-color: #D1AA55;
+  width: 500px;
+  opacity: 0.90;
+  background: linear-gradient(#D1AA55, #D18855);
 }
 
 section.logo-on-menu {
@@ -92,6 +94,7 @@ p {
 table {
   background-image: linear-gradient(to right, #D18855, black);
   opacity: 0.90;
+  width: 500px;
 }
 
 table td, table p {
