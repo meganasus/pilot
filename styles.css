@@ -69,6 +69,8 @@ a.menu {
 
 article.contact {
   color: white;
+  text-align: center;
+  align-contents: center;
   background-image: linear-gradient(#D18855, black);
   opacity: 0.87;
   width: 400px;
