@@ -31,6 +31,7 @@ div.tables {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  top: 10%;
   left: 35%;
   width: 500px;
   opacity: 0.90;
