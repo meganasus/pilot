@@ -15,13 +15,13 @@ img.background-mobil {
   /* filter: blur(1px); */
 }
 
-section.menu-contact {
+section.menu-contact-logo {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
 }
 
-section.menu-contact.large {
+section.menu-contact-logo.large {
   display: flex;
 }
 
