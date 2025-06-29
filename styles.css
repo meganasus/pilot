@@ -38,6 +38,10 @@ div.tables {
   z-index: -2;
 }
 
+div.tables h2 {
+  font-size: 24px;
+}
+
 section.logo-on-menu {
   position: absolute;
   left: 33%;
