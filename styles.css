@@ -30,7 +30,7 @@ div.tables {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  left: 37%;
+  left: 35%;
   width: 500px;
   opacity: 0.90;
   background: linear-gradient(#D1AA55, #D13300);
