@@ -19,6 +19,7 @@ section.menu-contact-logo {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin-left: 40%;
 }
 
 section.menu-contact-logo.large {
