@@ -27,6 +27,7 @@ section.menu-contact.large {
 
 div.tables {
   position: relative;
+  font-size: 18px;
   display: flex;
   flex-direction: column;
   justify-content: center;
