@@ -11,7 +11,10 @@ if (screenWidth <= 1000) {
 }
 
 const menu = {
-  
+  "appetizers": ["chips and salsa", "chips and guacamole", "salad"],
+  "entrees": ["", "", "", ""],
+  "sides": ["", "", "", ""],
+  "beverages": ["coca-cola", "lemonade", "iced tea", "aguas frescas"]
 };
 
 if (screen === "desktop") {
