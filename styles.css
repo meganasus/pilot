@@ -162,7 +162,9 @@ a {
 }
 
   article.contact {
-    margin-left: 25%;
+    width: 200px;
+    height: auto;
+    margin-left: 20%;
   }
   
   img.logo {
