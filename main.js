@@ -1,4 +1,4 @@
-const screenWidth = screen.width;
+const screenWidth = document.screen.width;
 
 if (screenWidth <= 1000) {
   const mainIndexElt = document.querySelector("main.menu-contact.large");
