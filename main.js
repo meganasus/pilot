@@ -10,3 +10,11 @@ if (screenWidth <= 1000) {
   console.log("large screen");
 }
 
+const menu = {
+  
+};
+
+if (screen === "desktop") {
+  const newLi = document.createElement("li");
+  newLi.textContent = "";
+}
