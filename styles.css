@@ -23,6 +23,7 @@ section.menu-contact-logo {
 
 section.menu-contact-logo.large {
   display: flex;
+  flex-direction: row;
   margin-left: 40%;
 }
 
