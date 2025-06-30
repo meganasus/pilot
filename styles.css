@@ -160,6 +160,9 @@ a {
 
   main {
     width: max-width;
+  
+  section.menu-contact-logo {
+    flex-direction: column;
   }
 
   article.contact {
