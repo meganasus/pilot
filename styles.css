@@ -151,6 +151,10 @@ a {
 
   img.background-mobil {}
 
+  div.tables {
+    left: 25%;
+  }
+
   article.logo {
     left: 25%;
 }
