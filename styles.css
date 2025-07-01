@@ -80,6 +80,7 @@ a.business {
 
 a.menu {
   color: whitesmoke;
+  margin-right: 0;
 }
 
 article.contact {
@@ -94,10 +95,6 @@ article.contact {
 
 article.contact p {
   font-size: 18px;
-}
-
-a.menu {
-  right: 0;
 }
 
 article.menu h2.menu {}
