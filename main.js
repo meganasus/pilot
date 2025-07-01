@@ -18,12 +18,13 @@ const menu = {
 };
 
 if (screen === "desktop") {
-  for (const section of Object.keys(menu)) {
+  for (const [i, item] of Object.keys(menu)) {
   if (section === "appetizer" || section === "entrees" || section) {
-  const new
-}
-  else 
+  const newTable = document.createElement("table");
+  else {
   const newLi = document.createElement("li");
+  
+  }
   newLi.textContent = "";
 }
 }
