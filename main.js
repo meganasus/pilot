@@ -18,6 +18,9 @@ const menu = {
 };
 
 if (screen === "desktop") {
+  for (const section of Object.keys(menu)) {
+  if (section === "appetizer" || section === "entrees" || section 
   const newLi = document.createElement("li");
   newLi.textContent = "";
+}
 }
