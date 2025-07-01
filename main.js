@@ -20,8 +20,8 @@ const menu = {
 if (screen === "desktop") {
   for (const section of Object.keys(menu)) {
     const newTable = document.createElement("table");
-    for (const [i, item] of menu[section]) {
-      if (i === ) {
+    for (const [i, item, arr] of menu[section]) {
+      if (i === arr.length() - 1) {
         const newTr = document.createElement("tr");
       }
       else {
