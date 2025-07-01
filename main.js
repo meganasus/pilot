@@ -22,7 +22,7 @@ if (screen === "desktop") {
     const newTable = document.createElement("table");
     for (const [i, item] of menu[section]) {
       if (i === 0) {
-        
+        const newTr = document.createElement("tr");
       }
       else {
         const newLi = document.createElement("li");
