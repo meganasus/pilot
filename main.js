@@ -21,6 +21,7 @@ if (screen === "desktop") {
   for (const section of Object.keys(menu)) {
     const newTable = document.createElement("table");
     for (const [i, item, arr] of menu[section]) {
+      let newTr
       if (i === arr.length() - 1) {
         const newTr = document.createElement("tr");
       }
