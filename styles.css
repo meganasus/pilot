@@ -177,8 +177,7 @@ a {
     width: max-width;
   
   section.menu-contact-logo {
-    flex-direction: column;
-    margin-left: 0;
+    
   }
 
   article.contact {
