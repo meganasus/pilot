@@ -2,12 +2,12 @@ const screenWidth = window.screen.width;
 let screen = "desktop";
 
 if (screenWidth <= 1000) {
-  const mainIndexElt = document.querySelector("section.menu-contact-logo.large");
-  mainIndexElt.classList.remove("large");
-  console.log("Large Class Removed");
+  console.log("Mobile View");
   screen = "mobile";
 } else {
-  console.log("large screen");
+  const mainIndexElt = document.querySelector("section.menu-contact-logo");
+  mainIndexElt.classList.add("large");
+  console.log("large class added");
 }
 
 const menu = {
