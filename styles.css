@@ -18,7 +18,6 @@ img.background-mobil {
 section.menu-contact-logo {
   display: flex;
   flex-direction: column;
-  text-align: center;
 }
 
 section.menu-contact-logo.large {
@@ -96,7 +95,13 @@ article.contact p {
   font-size: 18px;
 }
 
-article.menu h2.menu {}
+article.menu h2.menu {
+
+}
+
+article.menu {
+  text-align: center;
+}
 
 h2.menu p {}
 
