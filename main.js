@@ -17,7 +17,7 @@ const menu = {
   "beverages": ["coca-cola", "lemonade", "iced tea", "aguas frescas"]
 };
 
-if (screen === "desktop") {
+/*if (screen === "desktop") {
   for (const section of Object.keys(menu)) {
     const newTable = document.createElement("table");
     for (const [i, item, arr] of menu[section]) {
@@ -31,3 +31,4 @@ if (screen === "desktop") {
     }
 }
 }
+*/
